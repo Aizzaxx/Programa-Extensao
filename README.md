@@ -1,5 +1,5 @@
 # Programa-Extensão
-# Equipe Responsável: Renato Henrique, Luis Felipe Aizza Araujo e Renan Rodrigues
+# Equipe Responsável: Luis Felipe Aizza Araujo, Renan Rodrigues e Renato Henrique.
 
 # Resumo:
 
