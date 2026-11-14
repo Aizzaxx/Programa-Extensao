@@ -1,4 +1,4 @@
-# Programa-Extencao
+# Programa-Extensão
 # Equipe Responsável: Renato Henrique, Luis Felipe Aizza Araujo e Renan Rodrigues
 
 # Resumo:
